@@ -1,4 +1,4 @@
-//zlib license, 9l, 2016
+//zlib license, 8l, 2016
 
 #include <GLFW/glfw3.h>
 #include <stdlib.h>
